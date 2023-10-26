@@ -1,5 +1,7 @@
-1.สร้างไฟล์ใน github ชื่อ CE314_ID0705
-2.กด opne on vscode
-3.สร้างไฟล์ html -> เขียนเว็บตาที่โจทย์กำหนด 
-4.สร้าง Server ใน vmware เอา ip address จาก vmware มา
-
+1.ติดตั้ง apache2 คำสั่ง sudo apt install apache2
+2.ติดตั้ง git คำสั่ง sudo apt install git
+3.สร้างไฟล์เพื่อเก็บ git ที่จะ clone
+4.cd เข้าไปในไฟล์ที่สร้างไว้
+5.clone file -> git clone https://github.com/Chavalit2544/CE314_ID0705
+6.ls เพื่อเช็ค file
+7.cat index.html 
