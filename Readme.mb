@@ -2,6 +2,6 @@
 2.ติดตั้ง git คำสั่ง sudo apt install git
 3.สร้างไฟล์เพื่อเก็บ git ที่จะ clone
 4.cd เข้าไปในไฟล์ที่สร้างไว้
-5.clone file -> git clone https://github.com/Chavalit2544/CE314_ID0705
+5.clone file -> git clone https://github.com/Chavalit2544/CE314_ID0705 -> วิธีเอาลิ้งก์ต้องทำให้เป็น public ก่อน
 6.ls เพื่อเช็ค file
 7.cat index.html 
